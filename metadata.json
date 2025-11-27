@@ -1,0 +1,7 @@
+{
+  "name": "Arcane Nexus: AI Dungeon Master",
+  "description": "A comprehensive D&D companion featuring an AI-powered Dungeon Master, character management, dice rolling, and campaign generation using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
